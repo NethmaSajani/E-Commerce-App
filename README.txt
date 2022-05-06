@@ -17,7 +17,7 @@ admin side email, pw - sajani@gmail.com / sajani123 (use this credentials for lo
 MERN stack (MongoDB. express js, react js, node js)
 I used this technology since this is the most familiar technology for me. 
 
-#Additional features
+#Additional features that would I add, if I was to spend more time on this task
 
-1. Payment
-2. Order history
+1. Ratings
+2. Wishlist
